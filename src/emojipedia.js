@@ -82,7 +82,22 @@ const emojipedia = [
     name: "Fire",
     meaning:
       "A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame."
-  }
+  },
+  {
+    id: 13,
+    emoji: "😊 ",
+    name: "Smiling Face with Smiling Eyes",
+    meaning:
+      "A yellow face with smiling eyes and a broad, closed smile turning up to rosy cheeks. Often expresses genuine happiness and warm, positive feelings."
+  },
+  {
+    id: 14,
+    emoji: "✨ ",
+    name: "Sparkles",
+    meaning:
+      "The glittering flashes of sparkles. Generally depicted as a cluster of three, yellow four-point stars, with one large sparkle and two small ones to its left or right."
+  },
+  
 ];
 
 export default emojipedia;
