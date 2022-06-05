@@ -97,6 +97,13 @@ const emojipedia = [
     meaning:
       "The glittering flashes of sparkles. Generally depicted as a cluster of three, yellow four-point stars, with one large sparkle and two small ones to its left or right."
   },
+    {
+    id: 14,
+    emoji: "😀 ",
+    name: "Grinning Face",
+    meaning:
+      "A yellow face with simple, open eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general pleasure and good cheer or humor."
+  },
   
 ];
 
